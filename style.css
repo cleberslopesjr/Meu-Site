@@ -1,4 +1,4 @@
-* {
+body {
     font-family: 'Times New Roman', Times, serif;
     color: #000000;
     background: #09ff00;
@@ -10,6 +10,20 @@ h1 {
     border-top: 1px solid #000000;
     border-bottom: 1px solid #000000;
 }
+/*
 img {
     float: left;
+}
+*/
+#menu {
+    background: #ffffff;
+
+}
+#menu ul li {
+    background: #867f5e;
+    display: inline-block;
+}
+article {
+    margin: 10px;
+    padding: 10px;
 }

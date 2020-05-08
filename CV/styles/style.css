@@ -1,0 +1,63 @@
+@charset: "utf-8";
+
+body {
+	background-color: #ffffff;
+	color: #000000;
+}
+
+div#interface {
+	/*background-color: #32cd32;*/
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid black;
+	border-radius: 1em;
+	padding: 10px;
+	box-shadow: black .5em .5em .3em;
+}
+
+header {
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+}
+
+img#cleber {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img#facebook {
+	position: absolute;
+}
+
+h2 {
+	text-align: center;
+}
+
+h3 {
+	background-color: #dddddd;
+}
+
+h3.qualificacoes {
+	width: 114px;
+}
+
+h3.cursos {
+	width: 63px;
+}
+
+h3.experiencia {
+	width: 102px;
+}
+
+td.empresa {
+	
+}
+
+p.dn {
+	text-align: center;
+}

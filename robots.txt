@@ -1,4 +1,4 @@
 user-agent: *
-Allow: /
+Disallow: /
 
 sitemap: https://cleberslopesjr.github.io/Meu-Site/siteMap.xml
